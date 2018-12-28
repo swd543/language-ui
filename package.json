@@ -46,6 +46,7 @@
     "name": "Swapneel Datta",
     "email": "swd543@gmail.com"
   },
+  "proxy": "http://localhost:8080",
   "repository": {
     "url": "https://github.com/swd543/grapher"
   }

@@ -1,13 +1,13 @@
-import React from "react";
-import { BrowserRouter, Route } from "react-router-dom";
-import Clap from "./Clap";
+import React from 'react'
+import { BrowserRouter, Route } from 'react-router-dom'
+import MultiClapHolder from './MultiClapHolder'
 
-const Routes = () => {
+const Routes = props => {
   return (
     <BrowserRouter>
-      <Route path="/clap" component={Clap} />
+      <Route path="/clap" component={MultiClapHolder} />
     </BrowserRouter>
-  );
-};
+  )
+}
 
-export default Routes;
+export default Routes

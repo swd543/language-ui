@@ -1,7 +1,7 @@
 .App {
   text-align: center;
   display: flex;
-  flex-flow: column
+  flex-flow: column;
 }
 
 .App-logo {
