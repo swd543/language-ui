@@ -1,11 +1,19 @@
 .App {
   text-align: center;
+<<<<<<< HEAD
+=======
+  display: flex;
+  flex-flow: column
+>>>>>>> 38dd679b6cb30f7ea142cd9825bbc112b5f23634
 }
 
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
   height: 40vmin;
+<<<<<<< HEAD
   pointer-events: none;
+=======
+>>>>>>> 38dd679b6cb30f7ea142cd9825bbc112b5f23634
 }
 
 .App-header {
